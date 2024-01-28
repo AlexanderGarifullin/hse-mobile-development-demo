@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Timetable for HSE FE</string>
+    <string name="plain_text_hint">Input number of elements</string>
+    <string name="button_1">BUTTON 1</string>
+    <string name="button_2">BUTTON 2</string>
+    <string name="text_view_result">Result: 0</string>
+    <string name="error_msg">Вы ввели некорректное число: %s! Вы можете вводить числа от %d до %d!"</string>
+</resources>
